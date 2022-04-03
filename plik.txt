@@ -1,5 +1,0 @@
-cchange no.2 after using vim (file name) > escape > :wq 
-
-changes of 3 april
-
-have I changed this file correctly? :P
